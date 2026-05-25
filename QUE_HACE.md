@@ -1,3 +1,3 @@
 # ¿Qué hace el sistema?
 
-> *En una frase. No qué gestiona: **qué hace**.*
+> *Recorrer el edificio de la Universidad (Europea del Atlántico) y mostrar información de diferentes puntos de interés*

@@ -24,3 +24,6 @@ Construcción de un sistema con AI. Todo en el repositorio. [#2Think](2Think.md)
 - Proceso de creación, en la forma de commits. *Innegociable.*
 - [`conversation-log.md`](conversation-log.md): completo, honesto, cronológico. *Innegociable.*
 - Análisis del resultado frente a los contenidos de las asignaturas. *Innegociable.*
+
+## ¿Qué hace el sistema?
+[QUE_HACE](https://github.com/mariaarroniz/25-26-idsw2-sdVC/blob/9ff5cbec9043ab411746ce0d8d92351a0c59adc9/QUE_HACE.md)
